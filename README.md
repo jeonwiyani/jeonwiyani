@@ -1,5 +1,8 @@
 ### Hello! 👋
 
-My full name is Jeowandha Ria Wiyani or you can simply call me Jeo. I am a 4th year student in Brawijaya University, Malang, Indonesia. 
+My name is Jeowandha Ria Wiyani, you can simply call me Jeo or Jeon. I am a data and AI enthusiast and I am still learning a lot about data and AI.
+Here I'll update any projects than I've worked on in my college days.
 
-If you want to reach me, please contact me via email jeon.wiyani@gmail.com or my student email jeonwiyani@student.ub.ac.id
+If you want to reach me, please contact me via email jeon.wiyani@gmail.com.
+
+Have a nice day!
