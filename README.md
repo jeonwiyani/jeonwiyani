@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-My name is Jeowandha Ria Wiyani, you can simply call me Jeo or Jeon. I am a data and AI enthusiast and I am still learning a lot about data and AI.
-Here I'll update any projects than I've worked on in my college days.
+My name is Jeowandha Ria Wiyani, you can call me Jeo or Jeon. I am a data enthusiast and currently working as a Data Engineer. I am still learning a lot about data.
+Here I'll update any projects I've worked on.
 
-If you want to reach me, please contact me via email jeon.wiyani@gmail.com.
+You can reach me via email at jeon.wiyani@gmail.com.
 
 Have a nice day!
